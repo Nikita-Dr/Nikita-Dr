@@ -17,6 +17,8 @@
 ### Python
 Проекты написанные на Python:
 - Реализация системы ретинга [эло](https://github.com/Nikita-Dr/python/blob/main/Elo.py). 
+- Классфикация методом K-ближайших соседей [knn](https://github.com/Nikita-Dr/python/blob/main/KNN.ipynb)
+- Решение СЛАУ методом [Гаусса](https://github.com/Nikita-Dr/python/blob/main/чм4.ipynb)
 
 ### Html+css+js
 В рамках курса в институте изучил Html, css, javascript и создал 
